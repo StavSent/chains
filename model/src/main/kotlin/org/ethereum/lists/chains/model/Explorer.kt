@@ -3,6 +3,7 @@ package org.ethereum.lists.chains.model
 import com.squareup.moshi.JsonClass
 import org.ethereum.lists.chains.model.ExplorerStandard.*
 
+// hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 enum class ExplorerStandard {
     EIP3091,
     none
