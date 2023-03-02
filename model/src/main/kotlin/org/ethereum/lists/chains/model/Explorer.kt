@@ -13,6 +13,7 @@ enum class ExplorerStandard {
 data class Explorer(
     val name: String,
     val url: String,
+    var hm: String,
     val standard: ExplorerStandard
 )
 
